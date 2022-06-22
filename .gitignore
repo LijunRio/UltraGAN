@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+checkpoint/
+save_image/
+runs/
+*.json
+*.csv
+out
+gen
